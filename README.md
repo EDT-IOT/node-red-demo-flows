@@ -4,4 +4,4 @@
 * `node-red-dem-server-flow.json` file contains the node-red flow for server/another raspberry pi
 
 ## Demo Presentation
-Demo presentation is availale [here]()
+Demo presentation is availale [here](http://www.slideshare.net/secret/gBrz88W1cAXp3d)
