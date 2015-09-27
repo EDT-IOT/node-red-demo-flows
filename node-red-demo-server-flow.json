@@ -1,0 +1,1 @@
+[{"id":"bb3f48cd.44c0b8","type":"inject","name":"","topic":"","payload":"","payloadType":"date","repeat":"","crontab":"","once":false,"x":334,"y":162,"z":"d633d00d.29cc3","wires":[[]]}]
