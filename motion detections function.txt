@@ -1,0 +1,13 @@
+var motion = msg.payload;
+
+node.log(motion);
+
+var mqtt = {};
+
+mqtt.topic = 'edtiot/motion';
+
+if(motion){
+    node.log('Motion detected');
+    mqtt.payload = 'Intruder Detected';
+    return mqtt;
+}
